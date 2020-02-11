@@ -54,3 +54,4 @@ dkms.conf
 *.bin
 *.lss
 *.sym
+.DS_Store
